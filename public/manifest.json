@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Tab Manager Extension",
+    "description": "Manage too many open tabs easily.",
+    "permissions": ["tabs"],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "32.png"
+    }
+}
